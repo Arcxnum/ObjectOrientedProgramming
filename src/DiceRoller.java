@@ -6,7 +6,7 @@ public class DiceRoller {
 		
 		Random random = new Random();
 		int number = 0;
-		roll(random, number); // fix the scope issue by adding these two variables as arguments to roll();
+		roll(random, number); // fix the scope issue by adding these two variables as arguments to roll().
 		
 	}
 	
