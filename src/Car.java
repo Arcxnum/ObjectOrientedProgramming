@@ -5,7 +5,7 @@ public class Car {
 	String model = "Wrangler";
 	int year = 2002;
 	String color = "Red";
-	double price = 35000.00; */ // Every car will be a Jeep Wrangler with this code
+	double price = 35000.00; */ // Every car will be a Jeep Wrangler with this code.
 	
 	// constructor: a special method that is called when an object is instantiated (created)
 	

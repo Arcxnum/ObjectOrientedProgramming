@@ -27,7 +27,7 @@ public class Objects {
 		myCar2.drive();
 		myCar2.brake();
 		
-		System.out.println("You have two cars");
+		System.out.println("You have two cars.");
 		
 	}
 	
